@@ -1,1 +1,1 @@
-# one-logo-per-day
+# Simple website/motivation for showcasing logo works
